@@ -2,7 +2,24 @@
   "name": "qanda",
   "dependencies": {
     "dotenv": "^16.4.5",
-    "express": "^4.21.1",
-    "mongoose": "^8.8.1"
-  }
+    "express": "^4.21.2",
+    "mongoose": "^8.8.1",
+    "nodemon": "^3.1.9"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singharjun1409/ajax-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singharjun1409/ajax-project/issues"
+  },
+  "homepage": "https://github.com/singharjun1409/ajax-project#readme",
+  "description": ""
 }
